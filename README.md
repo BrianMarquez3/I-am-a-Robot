@@ -13,6 +13,6 @@
   </a> 
 </p>
   
-![python](./images/cmr.png)
+![python](./images/robot.png)
 
 _Add Customers_
