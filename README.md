@@ -13,6 +13,8 @@
   </a> 
 </p>
   
+_Install_
+```
+pip install pygame
+```
 ![python](./images/robot.png)
-
-_Add Customers_
