@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/I-am-a-Robot/tags">
+  <a href="https://github.com/BrianMarquez3/I-am-a-Robote/tags">
     <img src="https://img.shields.io/github/tag/BrianMarquez3/I-am-a-Robot.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/BrianMarquez3/I-am-a-Robot/stargazers">
